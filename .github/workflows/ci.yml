@@ -4,7 +4,7 @@ on:
   pull_request:
   push:
     branches:
-      - main
+      - feature/add-ci-workflow
 
 jobs:
   test:
